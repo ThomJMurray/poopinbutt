@@ -1,0 +1,21 @@
+body {
+  background-color: #33b864;
+}
+
+
+.butt-bottom {
+  position: absolute;
+  right: 20px;
+  z-index: -1
+}
+
+.butt-top {
+  position: absolute;
+  right: 20px;
+}
+
+.poop {
+  margin-top: 200px;
+  margin-left: 200px;
+  width: 200px;
+}
